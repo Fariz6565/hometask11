@@ -1,0 +1,108 @@
+.section1 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.section1-1 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section1-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section1-3 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section1-4 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.section2-1 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.section2 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.box2 {
+  display: flex;
+}
+
+.section2-2 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.section3-1 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section3-2 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section3-3 {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.section4 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.section4-1 {
+  display: flex;
+  gap: 150px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section4-2 {
+  display: flex;
+  gap: 1000px;
+  margin: 150px;
+  justify-content: center;
+}
+.section4-3 {
+  display: flex;
+  gap: 150px;
+  margin-top: 20px;
+  justify-content: center;
+}
+.section4-4 {
+  justify-content: baseline;
+  margin-left: 330px;
+  margin-top: 80px;
+}/*# sourceMappingURL=task1.css.map */
